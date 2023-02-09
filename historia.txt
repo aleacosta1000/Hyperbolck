@@ -1,2 +1,4 @@
 Esta es una prueba para probar el git
 En esta carpeta está el git
+
+Luego hago varios cambios
