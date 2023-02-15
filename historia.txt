@@ -1,4 +1,6 @@
 Esta es una prueba para probar el git
 En esta carpeta está el git
 
-Luego hago varios cambios
+Luego hago varios cambios.
+
+En camara parece alto, pero en verdad no es tan alto.
