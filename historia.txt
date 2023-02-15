@@ -4,3 +4,7 @@ En esta carpeta está el git
 Luego hago varios cambios.
 
 En camara parece alto, pero en verdad no es tan alto.
+
+luego agrego mas texto
+
+Ahora agrego texto desde VIM.
