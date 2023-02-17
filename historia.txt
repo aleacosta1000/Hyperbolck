@@ -4,3 +4,7 @@ En esta carpeta está el git
 Luego hago varios cambios.
 
 ahora hablamos de historias diferentes en el mundo
+
+Ahora agrego esto y grabo y a hacer "add . " (170223) 03.06am
+
+"
