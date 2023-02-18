@@ -1,7 +1,15 @@
 body
 {
-    color: rgb(0, 0, 0);
+    color: rgb(255, 50, 50);
     text-align: left;
     font-family: "Arial";
     font-size: 25px;
+}
+
+#cabecera
+{
+    color: rgb(3, 54, 1);
+    text-align: left;
+    font-family: "Arial";
+    font-size: 40px;
 }
